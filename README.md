@@ -44,8 +44,7 @@ Sumário
 	<td><b>Materiais</td>
 	<td><b>Com embalagem Zip Lock?</td>
 	<td><b> Frete Gratis</td>
-	<td><b>Loja Mercado Livre  
-		Com beneficios Mercado Envios</td>
+	<td><b>Loja Mercado Livre</td>
    <tr>
 	<td><a href="https://3d-itshop.com.br/">3D-It Shop</a></td>
     	<td>Itaquaquecetuba - SP</td>
@@ -449,6 +448,7 @@ Sumário
     	<td>Piracicaba - SP</td>
 	<td>ABS(Condutivo), PLA, PETG, Flexível(TPU), Fibra de carbono, Wood</td>
 	<td>Não informado</td>
+	<td>Não Verificado ainda</td>
 	<td>Não Verificado ainda</td>
   </tr>		
   <tr>
