@@ -63,7 +63,7 @@ Sumário
    	<td>Curitiba - PR</td>
 	<td>PLA</td>
 	<td>Não informado</td>
-	<td>Acima de R$120 </td>
+	<td>:Acima de R$120: </td>
   </tr>
   <tr>
     	<td><a href="https://www.3decia.com.br/">3D e Cia</a></td>
