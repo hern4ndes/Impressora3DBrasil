@@ -44,7 +44,7 @@ Sumário
 	<td><b>Materiais</td>
 	<td><b>Com embalagem Zip Lock?</td>
 	<td><b>Oferece Frete Gratis</td>
-	<td><b>Loja Mercado Livre</td>
+	<td><b>Loja Mercado Livre Com beneficios Mercado Envios</td>
    <tr>
 	<td><a href="https://3d-itshop.com.br/">3D-It Shop</a></td>
     	<td>Itaquaquecetuba - SP</td>
@@ -59,6 +59,7 @@ Sumário
 	<td><a href="https://www.3dcog.com.br/">3DCog</a></td>
    	<td>Rio de Janeiro - RJ</td>
 	<td>ABS</td>
+	<td>:x:</td>
 	<td>:x:</td>
 	<td><a href="https://www.mercadolivre.com.br/perfil/3DCOG">3DCog  Mercado Livre</a></td>
   </tr>
