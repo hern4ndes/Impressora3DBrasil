@@ -43,6 +43,7 @@ Sumário
 	<td><b>Cidade - Estado</td>
 	<td><b>Materiais</td>
 	<td><b>Com embalagem Zip Lock?</td>
+	<td><b>Oferece Frete Gratis</td>
    <tr>
 	<td><a href="https://3d-itshop.com.br/">3D-It Shop</a></td>
     	<td>Itaquaquecetuba - SP</td>
