@@ -44,7 +44,8 @@ Sumário
 	<td><b>Materiais</td>
 	<td><b>Com embalagem Zip Lock?</td>
 	<td><b> Frete Gratis</td>
-	<td><b>Loja Mercado Livre Com beneficios Mercado Envios</td>
+	<td><b>Loja Mercado Livre  
+		Com beneficios Mercado Envios</td>
    <tr>
 	<td><a href="https://3d-itshop.com.br/">3D-It Shop</a></td>
     	<td>Itaquaquecetuba - SP</td>
