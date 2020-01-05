@@ -70,45 +70,56 @@ Sumário
 	<td>PLA</td>
 	<td>Não informado</td>
 	<td>:Acima de R$120: </td>
+	<td>Não Verificado ainda</td>
+	
   </tr>
   <tr>
     	<td><a href="https://www.3decia.com.br/">3D e Cia</a></td>
     	<td>Piracicaba - SP</td>
 	<td>TreeD(ABS, PLA, PETG, Flexível, Solúvel, Nylon, PC, PP, PMMA, Fibra de carbono, Cerâmica, Mármore, Pedra, Argila, Tijolo, Concreto), NinjaTeck(Flexível), ColorFabb(Metálicos, Fibra de carbono), Polymaker(PLA, Nylon, PC, Flexível, Wood, PolySmooth, PolySupport)</td>
-	  <td>Não informado</td>
+	<td>Não informado</td>
+	<td>Não Verificado ainda</td>
+	<td>Não Verificado ainda</td>
   </tr>
   <tr>
 	<td><a href="https://3dfila.com.br/">3DFila</a></td>
-    <td>Belo Horizonte - MG</td>
+    	<td>Belo Horizonte - MG</td>
 	<td>ABS (Premium+, Premium+ Cristal, Eco), FRP193, Flexível(TPU), PLA(Basic, EasyFill, Eco), PETG-XT(Eco), Tritan-HT, HIPS</td>
-	  <td>:x:</td>
-	  <td>Acima de R$400, Exceto Norte e Nordeste</td>
+	<td>:x:</td>
+	<td>Acima de R$400, Exceto Norte e Nordeste</td>
+	<td>Não Verificado ainda</td>
   </tr>
  <tr>
 	<td><a href="http://www.3dfilaplast.com.br">3D FilaPlast</a></td>
         <td>Caxias do Sul - RS</td>
 	<td>ABS, PLA, PETG</td>
 	<td>:x:</td>
-	 <td>A partir 3KG de filamentos</td>
+	<td>A partir 3KG de filamentos</td>
+	<td>Não Verificado ainda</td>
   </tr>
   <tr>
 	<td><a href="http://3dfill.com.br">3DFill</a></td>
-    <td>São Paulo - SP</td>
+    	<td>São Paulo - SP</td>
 	<td>ABS Premium, Flexível(TPU), PETG, PLA</td>
-	  <td>Não informado</td>
+	<td>Não informado</td>
+	<td>Não Verificado ainda</td>
+	<td>Não Verificado ainda</td>
 	  <td>x</td>
   </tr>
   <tr>
 	<td><a href="https://3dlab.com.br">3D Lab</a></td>
-    <td>Betim - MG</td>
+    	<td>Betim - MG</td>
 	<td>PLA, ABS(Premium, MG94), PETG, Wood, Flexível(TPU, PLA Flex), Solúvel(HIPS)</td>
-	  <td>:heavy_check_mark:</td>
+	<td>:heavy_check_mark:</td>
+	<td>Não Verificado ainda</td>
+	<td>Não Verificado ainda</td>
   </tr>
   <tr>
 	<td><a href="https://3dlopes.com">3DLopes</a></td>
-    <td>Belo Horizonte - MG</td>
+    	<td>Belo Horizonte - MG</td>
 	<td>PLA, ABS Premium, Tritan HT, PETG-XT, Flexível, Nylon(230, 645, Bridge, PCTPE)</td>
-	  <td>Não informado</td>
+	<td>Não informado</td>
+	<td>Não Verificado ainda</td>
   </tr>
   <tr>
 	<td><a href="https://3d-machine.lojaintegrada.com.br">3DMachine</a></td>
@@ -389,12 +400,14 @@ Sumário
 	<td>ABS, PLA</td>
 	<td>Não informado</td>
 	<td>Não Verificado ainda</td>
+	<td>Não Verificado ainda</td>
   </tr>
   <tr>
 	<td><a href="https://www.reprap3d.com.br">RepRap3D</a></td>
     	<td>Jundiaí - SP</td>
 	<td>ABS, PLA</td>
 	<td>Não informado</td>
+	<td>Não Verificado ainda</td>
 	<td>Não Verificado ainda</td>
   </tr>
   <tr>
@@ -403,12 +416,14 @@ Sumário
 	<td>ABS(Plus, Dental), PLA, PETG, Flexível</td>
 	<td>Não informado</td>
 	<td>Não Verificado ainda</td>
+	<td>Não Verificado ainda</td>
   </tr>
   <tr>
 	<td><a href="https://www.mercadolivre.com.br/perfil/3DVALE">3DVALE(Takao)</a></td>
     	<td>Taubaté - SP</td>
 	<td>ABS</td>
 	<td>Não informado</td>
+	<td>Não Verificado ainda</td>
 	<td>Não Verificado ainda</td>
   </tr>
   <tr>
