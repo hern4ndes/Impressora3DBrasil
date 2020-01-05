@@ -104,7 +104,7 @@ Sumário
 	<td>Não informado</td>
 	<td>Não Verificado ainda</td>
 	<td>Não Verificado ainda</td>
-	  <td>x</td>
+	
   </tr>
   <tr>
 	<td><a href="https://3dlab.com.br">3D Lab</a></td>
@@ -119,6 +119,7 @@ Sumário
     	<td>Belo Horizonte - MG</td>
 	<td>PLA, ABS Premium, Tritan HT, PETG-XT, Flexível, Nylon(230, 645, Bridge, PCTPE)</td>
 	<td>Não informado</td>
+	<td>Não Verificado ainda</td>
 	<td>Não Verificado ainda</td>
   </tr>
   <tr>
@@ -455,6 +456,7 @@ Sumário
     	<td>Louveira - SP</td>
 	<td>ABS(Premium, Condutivo), PLA(Premium, Fibra de carbono, Mármore), PETG(Fibra de carbono), Flexível(TPE), Solúvel(HIPS, PVA) Nylon, ASA, Silk, Wood, Metálicos(Alumínio, Bronze, Cobre), Polymaker(PLA, PC, Nylon, PolySmooth, PolyCast, PolySupport)</td>
 	<td>Não informado</td>
+	<td>Não Verificado ainda</td>
 	<td>Não Verificado ainda</td>
   </tr>
   <tr>
