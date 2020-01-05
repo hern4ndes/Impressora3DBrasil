@@ -60,7 +60,7 @@ Sumário
    	<td>Rio de Janeiro - RJ</td>
 	<td>ABS</td>
 	<td>:x:</td>
-	<td>:Não verificado ainda:</td>
+	<td>:Não foi possivel verificar:</td>
 	<td><a href="https://www.mercadolivre.com.br/perfil/3DCOG">3DCog  Mercado Livre</a></td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@ Sumário
 	<td>PLA</td>
 	<td>Não informado</td>
 	<td>:Acima de R$120: </td>
-	<td>Não Verificado ainda</td>
+	<td><a href="https://www.mercadolivre.com.br/perfil/3DBROTHERS">3D Brothers Mercado Livre</a></td>
 	
   </tr>
   <tr>
@@ -77,8 +77,8 @@ Sumário
     	<td>Piracicaba - SP</td>
 	<td>TreeD(ABS, PLA, PETG, Flexível, Solúvel, Nylon, PC, PP, PMMA, Fibra de carbono, Cerâmica, Mármore, Pedra, Argila, Tijolo, Concreto), NinjaTeck(Flexível), ColorFabb(Metálicos, Fibra de carbono), Polymaker(PLA, Nylon, PC, Flexível, Wood, PolySmooth, PolySupport)</td>
 	<td>Não informado</td>
-	<td>Não Verificado ainda</td>
-	<td>Não Verificado ainda</td>
+	<td>:Não foi possivel verificar:</td>
+	<td>:x:</td>
   </tr>
   <tr>
 	<td><a href="https://3dfila.com.br/">3DFila</a></td>
@@ -86,7 +86,7 @@ Sumário
 	<td>ABS (Premium+, Premium+ Cristal, Eco), FRP193, Flexível(TPU), PLA(Basic, EasyFill, Eco), PETG-XT(Eco), Tritan-HT, HIPS</td>
 	<td>:x:</td>
 	<td>Acima de R$400, Exceto Norte e Nordeste</td>
-	<td>Não Verificado ainda</td>
+	<td><a href="https://www.mercadolivre.com.br/perfil/3DFILA">3DFila Mercado Livre</a></td>
   </tr>
  <tr>
 	<td><a href="http://www.3dfilaplast.com.br">3D FilaPlast</a></td>
@@ -94,15 +94,15 @@ Sumário
 	<td>ABS, PLA, PETG</td>
 	<td>:x:</td>
 	<td>A partir 3KG de filamentos</td>
-	<td>Não Verificado ainda</td>
+	<td>:x:</td>
   </tr>
   <tr>
 	<td><a href="http://3dfill.com.br">3DFill</a></td>
     	<td>São Paulo - SP</td>
 	<td>ABS Premium, Flexível(TPU), PETG, PLA</td>
 	<td>Não informado</td>
-	<td>Não Verificado ainda</td>
-	<td>Não Verificado ainda</td>
+	<td>:x:</td>
+	<td><a href="https://www.mercadolivre.com.br/perfil/RADIOASTROS">3DFill Mercado Livre</a></td>
 	
   </tr>
   <tr>
@@ -110,24 +110,26 @@ Sumário
     	<td>Betim - MG</td>
 	<td>PLA, ABS(Premium, MG94), PETG, Wood, Flexível(TPU, PLA Flex), Solúvel(HIPS)</td>
 	<td>:heavy_check_mark:</td>
-	<td>Não Verificado ainda</td>
-	<td>Não Verificado ainda</td>
+	<td>Acima de R$ 400,00</td>
+	
+	<td><a href="https://www.mercadolivre.com.br/perfil/3D+LAB">3D Lab Mercado Livre</a></td>
+	
   </tr>
   <tr>
 	<td><a href="https://3dlopes.com">3DLopes</a></td>
     	<td>Belo Horizonte - MG</td>
 	<td>PLA, ABS Premium, Tritan HT, PETG-XT, Flexível, Nylon(230, 645, Bridge, PCTPE)</td>
 	<td>Não informado</td>
-	<td>Não Verificado ainda</td>
-	<td>Não Verificado ainda</td>
+	<td>:x:</td>
+	<td>:x:</td>
   </tr>
   <tr>
 	<td><a href="https://3d-machine.lojaintegrada.com.br">3DMachine</a></td>
-    <td>São Paulo - SP</td>
+    	<td>São Paulo - SP</td>
 	<td>PLA, ABS</td>
-	  <td>Não informado</td>
-		<td>Não Verificado ainda</td>
-		<td>Não Verificado ainda</td>
+	<td>Não informado</td>
+	<td>:x:</td>
+	<td>:x:</td>
   </tr>
   <tr>
 	<td><a href="https://www.3dmod.com.br/">3DMod</a></td>
