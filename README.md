@@ -49,6 +49,7 @@ Sumário
     	<td>Itaquaquecetuba - SP</td>
 	<td>ABS(Pure, Prime, Impact)</td>
 	<td>:x:</td>
+	<td>:x:</td>
   </tr>
   <tr>
 	<td><a href="https://www.3dcog.com.br/">3DCog</a></td>
@@ -73,6 +74,7 @@ Sumário
     <td>Belo Horizonte - MG</td>
 	<td>ABS (Premium+, Premium+ Cristal, Eco), FRP193, Flexível(TPU), PLA(Basic, EasyFill, Eco), PETG-XT(Eco), Tritan-HT, HIPS</td>
 	  <td>:x:</td>
+	  <td>:Acima de 400 reais:</td>
   </tr>
  <tr>
 	<td><a href="http://www.3dfilaplast.com.br">3D FilaPlast</a></td>
