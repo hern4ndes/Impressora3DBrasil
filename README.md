@@ -51,6 +51,8 @@ Sumário
 	<td>ABS(Pure, Prime, Impact)</td>
 	<td>:x:</td>
 	<td>:x:</td>
+	 <td><a href="https://lista.mercadolivre.com.br/_CustId_52116370">3D-It Shop Mercado Livre</a></td>
+	   
 	
   </tr>
   <tr>
@@ -58,6 +60,7 @@ Sumário
    	<td>Rio de Janeiro - RJ</td>
 	<td>ABS</td>
 	<td>:x:</td>
+	<td><a href="https://www.mercadolivre.com.br/perfil/3DCOG">3DCog  Mercado Livre</a></td>
   </tr>
   <tr>
 	<td><a href="https://www.mercadolivre.com.br/perfil/3DBROTHERS">3D Brothers</a></td>
