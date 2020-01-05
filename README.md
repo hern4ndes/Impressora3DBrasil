@@ -50,6 +50,7 @@ Sumário
 	<td>ABS(Pure, Prime, Impact)</td>
 	<td>:x:</td>
 	<td>:x:</td>
+	<td>Não informado</td>
   </tr>
   <tr>
 	<td><a href="https://www.3dcog.com.br/">3DCog</a></td>
@@ -62,6 +63,7 @@ Sumário
    	<td>Curitiba - PR</td>
 	<td>PLA</td>
 	<td>Não informado</td>
+	<td>Acima de R$120 </td>
   </tr>
   <tr>
     	<td><a href="https://www.3decia.com.br/">3D e Cia</a></td>
@@ -74,19 +76,21 @@ Sumário
     <td>Belo Horizonte - MG</td>
 	<td>ABS (Premium+, Premium+ Cristal, Eco), FRP193, Flexível(TPU), PLA(Basic, EasyFill, Eco), PETG-XT(Eco), Tritan-HT, HIPS</td>
 	  <td>:x:</td>
-	  <td>:Acima de 400 reais:</td>
+	  <td>:Acima de R$400, Exceto Norte e Nordeste:</td>
   </tr>
  <tr>
 	<td><a href="http://www.3dfilaplast.com.br">3D FilaPlast</a></td>
         <td>Caxias do Sul - RS</td>
 	<td>ABS, PLA, PETG</td>
 	<td>:x:</td>
+	 <td>:A partir 3KG de filamentos:</td>
   </tr>
   <tr>
 	<td><a href="http://3dfill.com.br">3DFill</a></td>
     <td>São Paulo - SP</td>
 	<td>ABS Premium, Flexível(TPU), PETG, PLA</td>
 	  <td>Não informado</td>
+	  <td>x</td>
   </tr>
   <tr>
 	<td><a href="https://3dlab.com.br">3D Lab</a></td>
