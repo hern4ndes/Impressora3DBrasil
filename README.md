@@ -50,7 +50,7 @@ Sumário
 	<td>ABS(Pure, Prime, Impact)</td>
 	<td>:x:</td>
 	<td>:x:</td>
-	<td>Não informado</td>
+	
   </tr>
   <tr>
 	<td><a href="https://www.3dcog.com.br/">3DCog</a></td>
