@@ -60,7 +60,7 @@ Sumário
    	<td>Rio de Janeiro - RJ</td>
 	<td>ABS</td>
 	<td>:x:</td>
-	<td>:Não foi possivel verificar:</td>
+	<td>Não foi possivel verificar</td>
 	<td><a href="https://www.mercadolivre.com.br/perfil/3DCOG">3DCog  Mercado Livre</a></td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ Sumário
    	<td>Curitiba - PR</td>
 	<td>PLA</td>
 	<td>Não informado</td>
-	<td>:Acima de R$120: </td>
+	<td>Acima de R$120</td>
 	<td><a href="https://www.mercadolivre.com.br/perfil/3DBROTHERS">3D Brothers Mercado Livre</a></td>
 	
   </tr>
