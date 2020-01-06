@@ -77,7 +77,7 @@ Sumário
     	<td>Piracicaba - SP</td>
 	<td>TreeD(ABS, PLA, PETG, Flexível, Solúvel, Nylon, PC, PP, PMMA, Fibra de carbono, Cerâmica, Mármore, Pedra, Argila, Tijolo, Concreto), NinjaTeck(Flexível), ColorFabb(Metálicos, Fibra de carbono), Polymaker(PLA, Nylon, PC, Flexível, Wood, PolySmooth, PolySupport)</td>
 	<td>Não informado</td>
-	<td>:Não foi possivel verificar:</td>
+	<td>Não foi possivel verificar</td>
 	<td>:x:</td>
   </tr>
   <tr>
